@@ -1,6 +1,6 @@
-# 💧 Water Quality Prediction
+# 💧 Water Quality Checker
 
-This project aims to predict water quality using machine learning techniques. It involves data preprocessing, exploratory data analysis (EDA), handling missing values, outlier treatment, and classification modeling to predict the safety of water samples.
+This project aims to check water quality using machine learning techniques. It involves data preprocessing, exploratory data analysis (EDA), handling missing values, outlier treatment, and classification modeling to predict the safety of water samples.
 
 ## 📊 Problem Statement
 
